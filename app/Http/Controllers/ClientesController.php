@@ -16,7 +16,7 @@ class ClientesController extends Controller
     }
 
     /**
-     * Display a listing of the resource.
+     * Display a listing of the resource. Teste
      */
     public function index()
     {
